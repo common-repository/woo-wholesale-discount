@@ -1,0 +1,66 @@
+.wwsd-wholesale-cont-area{
+	width:100%;
+	display:inline-block;
+    box-sizing: border-box;
+}
+
+.wwsd-wholesale-field-title{
+	width:100%;
+	display:inline-block;
+	margin-bottom:10px;
+}
+
+.wwsd-wholesale-row-inner{
+	margin-bottom:10px;
+}
+
+.wwsd-wholesale-field-title label{
+	width: 30% !important;
+    float: none !important;
+    display: inline-block;
+    margin: 0 !important;
+	margin-right:10px !important;
+}
+
+.wwsd-wholesale-field-settings input{
+	width: 30% !important;
+    float: none !important;
+    display: inline-block;
+    margin: 0 !important;
+	margin-right:10px !important;
+}
+
+.wwsd-wholesale-field-settings .remove-discount-slab{
+	margin:0 0 !important;
+}
+
+#wwsd_wholesale_discount_tab{
+	padding:15px;
+}
+
+#wwsd_wholesale_discount_tab .woo-show-bgcolor{
+	background-color:#f9f2f2;
+	padding:10px 0;
+}
+
+.wwsd-remove-discount-rule{
+	float:right;
+}
+
+#wwsd_wholesale_discount_tab .wwsd_date_range_discount label{
+	margin:0;
+}
+.wwsd_date_range_discount p{
+	padding-left:0px !important;
+	font-size:16px;
+}
+.wwsd-wholesale-append-js-row-cont .wwsd-wholesale-field-title label{
+	font-weight:700; 
+	max-width:200px; 
+	width:100%;
+}
+
+.wwsd-wholesale-append-js-row-cont  input{
+	width:100%;
+	max-width:200px;
+}
